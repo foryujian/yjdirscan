@@ -27,7 +27,7 @@
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
      > demo.com     Split(2)          demo=%b% com=%c%
 
-<img src="https://github.com/foryujian/yjdirscan/blob/main/404.png" width="800px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/c1.png" width="800px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/dicscan.png" width="800px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/fuzzscan.png" width="800px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/404.png" width="800px" height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/c1.png" width="800px"  height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/dicscan.png" width="800px"  height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/fuzzscan.png" width="800px"  height="400px"/><br>
