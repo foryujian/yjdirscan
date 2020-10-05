@@ -27,7 +27,7 @@
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
      > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo=%b% com=%c%
 
-<img src="https://github.com/foryujian/yjdirscan/blob/main/404.png" width="800px" height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/c1.png" width="800px"  height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/dicscan.png" width="800px"  height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/fuzzscan.png" width="800px"  height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/img/404.png" width="800px" height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/img/c1.png" width="800px"  height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/img/dicscan.png" width="800px"  height="400px"/><br>
+<img src="https://github.com/foryujian/yjdirscan/blob/main/img/fuzzscan.png" width="800px"  height="400px"/><br>
