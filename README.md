@@ -25,7 +25,7 @@
      > -range&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fuzz mode,Default 1,3
 * Dicvar(bak.txt):
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
-     > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)          demo=%b% com=%c%
+     > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo=%b% com=%c%
 
 <img src="https://github.com/foryujian/yjdirscan/blob/main/404.png" width="800px" height="400px"/><br>
 <img src="https://github.com/foryujian/yjdirscan/blob/main/c1.png" width="800px"  height="400px"/><br>
