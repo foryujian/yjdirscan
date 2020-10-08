@@ -1,4 +1,5 @@
 # 依赖：Microsoft .NET Framework 4.6.1
+
 ## 预告：专业版v1.1  Date:?
     ★增加存活预判
     ★增加首页爬虫
@@ -6,11 +7,12 @@
     ★更小的内存占用（1000左右的并发速度内存控制在20-40M左右）
 
 ## 发布：御剑目录扫描专业版v1.0  Date:20201005
-    ★支持修改UserAgent<br>
-    ★支持开启和关闭自定义404识别<br>
-    ★支持限速<br>
-    ★支持fuzz和字典扫描模式<br>
-    ★支持字典变量<br>
+    ★支持修改UserAgent
+    ★支持开启和关闭自定义404识别
+    ★支持控速
+    ★支持fuzz和字典扫描模式
+    ★支持字典变量
+    
 ## 示例
 * Program:
      > yjdirscan(御剑目录扫描专业版v1.0 Date:20201005)
@@ -30,6 +32,7 @@
 * Dicvar(bak.txt):
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
      > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo=%b% com=%c%
+     
 ## 截图
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/404.png" width="600px" height="400px"/><br>
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/c1.png" width="600px"  height="400px"/><br>
