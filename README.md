@@ -1,4 +1,4 @@
-# 依赖：Microsoft .NET Framework 4.6.1
+## 依赖：Microsoft .NET Framework 4.6.1
 
 ## 预告：专业版v1.1  Date:?
     ★增加存活预判
@@ -13,7 +13,7 @@
     ★支持fuzz和字典扫描模式
     ★支持字典变量
     
-## 示例
+## 示例：
 * Program:
      > yjdirscan(御剑目录扫描专业版v1.0 Date:20201005)
 * Usage:
@@ -33,7 +33,7 @@
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
      > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo=%b% com=%c%
      
-## 截图
+## 截图：
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/404.png" width="600px" height="400px"/><br>
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/c1.png" width="600px"  height="400px"/><br>
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/dicscan.png" width="600px"  height="400px"/><br>
