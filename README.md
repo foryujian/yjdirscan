@@ -5,7 +5,7 @@
 #### ★支持fuzz和字典扫描模式<br>
 #### ★支持字典变量<br>
 
-####  依赖.net framework 4.6.1或者更高的版本！<br>
+<font color='red'> text </font>
 
 #### 示例<br>
 * Program:
