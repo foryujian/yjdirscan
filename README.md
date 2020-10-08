@@ -1,11 +1,11 @@
 # 依赖：Microsoft .NET Framework 4.6.1
-## 更新预告：专业版v1.1
+## 预告：专业版v1.1
     ★增加存活预判
     ★增加首页爬虫
     ★更快的扫描速度（比1.0提升速度大概4-8倍）
     ★更小的内存占用（1000左右的并发速度内存控制在20-40M左右）
 
-## 御剑目录扫描专业版v1.0(Date:20201005)
+## 发布御剑目录扫描专业版v1.0(Date:20201005)
     ★支持修改UserAgent<br>
     ★支持开启和关闭自定义404识别<br>
     ★支持限速<br>
@@ -30,8 +30,8 @@
 * Dicvar(bak.txt):
      > www.demo.com Split(3)  www=%a% demo=%b% com=%c%<br>
      > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo.com Split(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo=%b% com=%c%
-
-<img src="https://github.com/foryujian/yjdirscan/blob/main/img/404.png" width="800px" height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/img/c1.png" width="800px"  height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/img/dicscan.png" width="800px"  height="400px"/><br>
-<img src="https://github.com/foryujian/yjdirscan/blob/main/img/fuzzscan.png" width="800px"  height="400px"/><br>
+## 截图
+    <img src="https://github.com/foryujian/yjdirscan/blob/main/img/404.png" width="800px" height="400px"/><br>
+    <img src="https://github.com/foryujian/yjdirscan/blob/main/img/c1.png" width="800px"  height="400px"/><br>
+    <img src="https://github.com/foryujian/yjdirscan/blob/main/img/dicscan.png" width="800px"  height="400px"/><br>
+    <img src="https://github.com/foryujian/yjdirscan/blob/main/img/fuzzscan.png" width="800px"  height="400px"/><br>
