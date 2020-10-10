@@ -1,7 +1,7 @@
 ## 依赖：Microsoft .NET Framework 4.6.1
     ★程序使用了壳，可能会造成部分安全软件拦截，如果不放心可以在虚拟机下使用!
     
-## 预告：专业版v1.1&nbsp;&nbsp;Date:2020101?&nbsp;&nbsp;
+## 预告：专业版v1.1&nbsp;&nbsp;Date:?&nbsp;&nbsp;
     ★增加存活预判
     ★增加首页爬虫
     ★增加文件存储
