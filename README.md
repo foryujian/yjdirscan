@@ -6,13 +6,12 @@
     ★优化扫描速度（比1.0提升速度大概4-8倍）
     ★优化内存占用（1000/s内存占用10-30M左右）
 
-## 发布：御剑目录扫描专业版v1.0  Date:20201005
+## 发布：御剑目录扫描专业版v1.0&nbsp;&nbsp;Date:20201005&nbsp;&nbsp;<a href="https://github.com/foryujian/yjdirscan/releases/download/yjdirscan/yjdirscan.zip">下载：专业版v1.0</a>
     ★支持修改UserAgent
     ★支持开启和关闭自定义404识别
     ★支持控速
     ★支持fuzz和字典扫描模式
     ★支持字典变量
-    
 ## 示例：
 * Program:
      > yjdirscan(御剑目录扫描专业版v1.0 Date:20201005)
