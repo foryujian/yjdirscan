@@ -18,7 +18,6 @@
     ★支持fuzz和字典扫描模式
     ★支持字典变量
 ## 示例：
-yjdirscan.exe -h
 <img src="https://github.com/foryujian/yjdirscan/blob/main/img/usage.png" width="600px" height="400px"/><br>
      
 ## 截图：
