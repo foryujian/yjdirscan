@@ -1,7 +1,7 @@
 ## 御剑目录扫描专业版(依赖：Microsoft .NET Framework 4.6.1)
     ★程序使用了壳，可能会造成部分安全软件拦截，如果不放心可以在虚拟机下使用!
     
-## 发布：v1.1&nbsp;&nbsp;Date:20201018&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscan_v1.1.zip">下载：专业版v1.1</a>&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscanv1.1(gui).zip">下载：专业版(GUI)v1.1</a>
+## 发布：v1.1&nbsp;&nbsp;Date:20201018&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscan_v1.1.zip">下载：专业版v1.1</a>&nbsp;&nbsp;<a href="https://github.com/foryujian/yjdirscan/blob/main/yjdirscanv1.1(gui).zip">下载：专业版(GUI)v1.1</a>
     ★新增存活预判（当目标无法连接3次自动撤销任务）
     ★新增首页爬虫（只抓取首页的目录进行二次扫描）
     ★新增文件存储（可以保存扫描结果到指定文位置）
