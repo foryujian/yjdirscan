@@ -1,4 +1,5 @@
 ## 御剑目录扫描专业版&nbsp;&nbsp;<a href="https://www.microsoft.com/zh-CN/download/confirmation.aspx?id=30653">下载最低依赖：NET Framework 4.5</a>
+    ★软件免费共享但不开源
     ★程序使用了壳，可能会造成部分安全软件拦截，如果不放心可以在虚拟机下使用!
     
 ## 发布：v1.1&nbsp;&nbsp;Date:20201018&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscan_v1.1.zip">下载：专业版v1.1</a>&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscanv1.1.gui.zip">下载：专业版v1.1(GUI)</a>
