@@ -4,11 +4,11 @@
     
 ## 预告：v1.2 date:?
     ★新增Referer和Cookie的支持
-    ★深度优化自动过滤算法（珍藏版能力为1，专业版1.0/1.1为2，专业版1.2则可以达到3-4）
+    ★新增精准过滤模式（珍藏版自动过滤能力为1，专业版1.0/1.1为2，专业版1.2则可以达到3-4）
     ★修复Fuzz模式不支持参数化BUG
     ★修复UserAgent格式化检查BUG
     ★界面进行一些细微的调整
-    
+<img src="https://github.com/foryujian/yjdirscan/blob/main/img/1.2.png" width="600px" height="400px"/><br>
     
 ## 发布：v1.1&nbsp;&nbsp;Date:20201018&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscan_v1.1.zip">下载：专业版v1.1(CLI)</a>&nbsp;&nbsp;<a href="../../releases/download/yjdirscan/yjdirscanv1.1.gui.zip">下载：专业版v1.1(GUI)</a>
     ★新增存活预判（当目标无法连接3次自动撤销任务）
